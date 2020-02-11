@@ -148,6 +148,13 @@ footer {
   color: white;
 }
 
+@media screen and (min-width: 320px) {
+  body {
+    margin: 0;
+    width: 50%;
+  }
+}
+
 @media screen and (min-width: 768px) {
   body {
     margin: 0;
