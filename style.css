@@ -151,7 +151,11 @@ footer {
 @media screen and (min-width: 320px) {
   body {
     margin: 0;
-    width: 50%;
+    width: 100%;
+  }
+
+  .about {
+    height: 700px;
   }
 }
 
