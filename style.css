@@ -210,15 +210,15 @@ footer {
     height: 700px;
   }
 
-  .work h3 {
+  .project h3 {
     font-size: 20px;
   }
 
-  .work a {
+  .project a {
     font-size: 18px;
   }
 
-  .work img {
+  .project img {
     margin: 20px;
   }
 
