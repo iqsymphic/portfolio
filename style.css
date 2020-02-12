@@ -28,6 +28,7 @@ body {
   text-decoration: none;
   color: #172a3a;
   padding-right: 15px;
+  font-size: 14px;
 }
 
 .topnav a.icon {
@@ -84,8 +85,8 @@ h2 {
 
 p {
   display: inline-block;
-  font-size: 16px;
-  line-height: 30px;
+  font-size: 14px;
+  line-height: 20px;
   color: #6f4b66;
   width: 75%;
 }
@@ -94,6 +95,7 @@ p {
   border-radius: 25px;
   margin: 20px 0;
   padding: 0;
+  width: 25%;
 }
 
 .about {
@@ -146,41 +148,6 @@ footer {
   height: 30px;
   background-color: #839d9a;
   color: white;
-}
-
-@media screen and (min-width: 320px) {
-  .topnav a {
-    font-size: 14px;
-  }
-
-  .about img {
-    width: 25%;
-  }
-
-  .about p {
-    line-height: 20px;
-  }
-
-  section p {
-    font-size: 14px;
-    line-height: 20px;
-  }
-
-  .about {
-    height: 700px;
-  }
-
-  .project h3 {
-    font-size: 20px;
-  }
-
-  .project a {
-    font-size: 18px;
-  }
-
-  .project img {
-    margin: 20px;
-  }
 }
 
 @media screen and (min-width: 768px) {
