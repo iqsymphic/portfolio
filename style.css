@@ -151,7 +151,7 @@ footer {
 @media screen and (min-width: 320px) {
   body {
     margin: 0;
-    width: 50%;
+    width: 100%;
   }
 
   .about img {
@@ -162,21 +162,26 @@ footer {
     line-height: 30px;
   }
 
+  section p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
   .about {
     height: 700px;
   }
-}
 
-.project h3 {
-  font-size: 20px;
-}
+  .project h3 {
+    font-size: 20px;
+  }
 
-.project a {
-  font-size: 18px;
-}
+  .project a {
+    font-size: 18px;
+  }
 
-.project img {
-  margin: 20px;
+  .project img {
+    margin: 20px;
+  }
 }
 
 @media screen and (min-width: 768px) {
