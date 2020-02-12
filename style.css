@@ -100,7 +100,6 @@ p {
 
 .about {
   background-color: #353a1734;
-  height: 750px;
 }
 
 .about p {
@@ -207,11 +206,6 @@ footer {
     font-size: 20px;
     line-height: 30px;
   }
-
-  .about {
-    height: 700px;
-  }
-
   .project h3 {
     font-size: 20px;
   }
@@ -257,10 +251,6 @@ footer {
 
   h2 {
     font-size: 28px;
-  }
-
-  .about {
-    height: 700px;
   }
 
   .contact ul li {
